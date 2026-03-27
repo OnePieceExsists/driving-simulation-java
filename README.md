@@ -10,16 +10,23 @@ Accelerate the car
 Brake to reduce speed
 Interactive dashboard menu
 Input-based simulation through the console
-Project Structure
+Project Structure:
+
 DrivingSimulation
+
 │
 ├── src
+
 │   ├── Main.java
+
 │   └── DrivingSimulationSolution.java
 │
+
 ├── .gitignore
+
 └── README.md
-How It Works
+
+How It Works!!!
 
 The simulation continuously displays a car dashboard showing:
 
