@@ -39,8 +39,11 @@ Users interact with the simulator by selecting options from the menu.
 Example menu:
 
 ------ Car Dashboard ------
+
 Speed: 0
+
 Engine: Off
+
 Gear: P
 
 Menu:
@@ -59,13 +62,18 @@ Gear System
 The car supports three gears:
 
 P – Park
+
 D – Drive
+
 R – Reverse
+
 Acceleration
+
 
 The car can accelerate only if:
 
 The engine is on
+
 The gear is not in Park
 
 Speed increases by 10 units.
@@ -84,17 +92,29 @@ Exit
 The simulation ends when the user selects option 5.
 
 Example Run
+
 ------ Car Dashboard ------
+
 Speed: 0
+
 Engine: Off
+
 Gear: P
 
+
 Enter your choice: 1
+
 Engine is now On
 
+
 Enter your choice: 2
+
 Enter gear (P, D, R): D
+
 Gear changed to D
 
+
 Enter your choice: 3
+
 Car accelerated. Current speed: 10
+
